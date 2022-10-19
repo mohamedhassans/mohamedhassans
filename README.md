@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedhassans
-- 👀 I’m interested in problem solving 
+- 👀 I’m interested in problem solving and learning new Algorithms 
 - 🌱 I’m currently learning SQL and CSS
 
 
