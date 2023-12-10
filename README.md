@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Hassan
 - 👀 I’m interested in problem solving and learning new Algorithms 
-- 🌱 I’m currently learning Nodejs and React framwork
+- 🌱 I’m currently learning Nodejs and React framework
 
 
 <!---
